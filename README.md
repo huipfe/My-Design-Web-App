@@ -7,7 +7,7 @@ This is my third evaluation for my web developer training. I had to create a web
 ## Organization
 Annexes : In folder.
 
-Figma files : In Figma's folder, in PDF.
+Figma files : In Figma's folder, in PNG.
 Or online : https://www.figma.com/file/s5XDY2LfMldoMdgy5NeioP/Eval-3---R%C3%A9aliser-la-maquette-d%E2%80%99une-application-web-responsive?type=design&node-id=1-2&mode=design&t=DeqBwEuOmktLpWZk-0
 
 Trello : https://trello.com/invite/b/2vrTpT45/ATTI8bd0c201ceeaa557c63005b9e5c5f30094B03F4D/evaluation-3-realiser-la-maquette-dune-application-web-responsive
